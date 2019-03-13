@@ -118,4 +118,3 @@ for alpha in collect(powerset(deleteat!(names(df), findex)))
     #println(assumed_tuples)
     end
 end
-# -
