@@ -1,5 +1,5 @@
-.ipynb_checkpoints
-.bib
-.csl
+*.ipynb_checkpoints
+*.bib
+*.csl
 InfoNeza/
 *.csv
